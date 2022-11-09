@@ -1,0 +1,83 @@
+body {
+}
+
+.container{
+    width: 1000px;
+    background-color: #004a34;
+    height: 300px;
+
+    opacity: 0.8;
+}
+
+.botaoPesquisa{
+    background-color: #d4db26;
+    width: 170px;
+}
+
+.header{
+    height: 100px;
+    width: 100%;
+    margin-bottom: 15px;
+    background-color: mediumseagreen;
+}
+.header h1{
+    padding-top: 20px;
+    color: white;
+    margin-left: 17%;
+}
+
+.header h1 span{
+    color: #d4db26;
+}
+.form{
+    padding-top: 30px;
+    margin-top: 0px;
+}
+.imagemPrincipal{
+
+    height: 600px;
+    margin-top: -15px;
+}
+.carros{
+    height: 500px;
+    background-color: #004a34;
+}
+.carros h1{
+    margin-bottom: 50px;
+    text-align: center;
+    color: white;
+}
+.veiculo{
+    display: inline-block;
+    height: 390px;
+    width: 300px;
+    margin-left: 60px;
+    background-color: white;
+}
+.imagemVeiculo{
+    height: 150px;
+    width: 300px;
+}
+.veiculo h4{
+    text-align: center;
+}
+.veiculo h5{
+    text-align: center;
+    color: #d4db26;
+}
+.veiculo p{
+    text-align: center;
+    
+}
+.btncarregar{
+    width: 170px;
+    margin: 0 auto;
+}
+.btncarregar button{
+    background-color: #d4db26;
+    width: 170px;
+}
+.footer{
+    height: 200px;
+    background-color: mediumseagreen;
+}
